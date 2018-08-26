@@ -30,6 +30,7 @@
 
 ## IMAGE COMPRESSION:
 * Compress All Images - https://compressor.io/compress
+* Compress Resize All Images - https://www.iloveimg.com/
 * Compress JPG - http://jpeg-optimizer.com/
 * Compress PNG - https://tinypng.com/
 
@@ -40,6 +41,7 @@
 * ES6+ Compatibility Table - https://kangax.github.io/compat-table/es6/
 
 ## IN BROWSER CODING:
+* Client Side Code - https://codesandbox.io/
 * Client Side Code - https://codepen.io
 * Client Side Code - https://jsfiddle.net
 * Client Side Code - http://liveweave.com
@@ -55,6 +57,7 @@
 * Create Gradients - https://uigradients.com
 * CSS Button Generator - http://css3buttongenerator.com 
 * HTML Entity Lookup - http://entity-lookup.leftlogic.com/
+* coolors.co - https://coolors.co/
 
 ## RESPONSIVENESS:
 * Device Testing - http://www.responsinator.com
@@ -67,7 +70,17 @@
 ## SPEED TEST:
 * Speed & Performance Testing - https://tools.keycdn.com/speed
 * Pingdom Speed Test - https://tools.pingdom.com/
+* GTmetrix Speed Test - https://gtmetrix.com/
+
+## Bookmarks Maintainer Website:
+* Maintain Bookmark on website - https://myfavs.in/
+
+## Markdown Editor:
+* Editor For Markdown Writing - https://jbt.github.io/markdown-editor/
 
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
 * Organized Docs for all Popular Web Technologies - https://devdocs.io
+
+## Cheatsheets: 
+* Some cheatsheet - https://devhints.io/
